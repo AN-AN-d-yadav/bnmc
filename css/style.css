@@ -5,3 +5,7 @@ body{
 .top-header{
     border-bottom: 2px dotted red;
 }
+
+.logo{
+    height: 100px;
+}
